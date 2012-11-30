@@ -18,7 +18,7 @@ de wxWidgets 3.0. Creas un nuevo "Workspace", y desde este abres el proyecto
 jajaja, bahh, funcionará ;D
 
 ##Una imagen para antojar
-![Fractal de Julia][julia.png]
+![Fractal de Julia](julia.png)
 
 Ojo, los números se escriben con coma (,).
 Por ejemplo en la imagen se ve el fractal `C = 0,285 + 0,01i`.
